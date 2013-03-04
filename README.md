@@ -19,3 +19,8 @@ TODO:
 -------
 * animations
 * apperance...
+
+License
+-------
+
+Game is released under The MIT License. See LICENSE file.
