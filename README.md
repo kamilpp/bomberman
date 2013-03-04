@@ -8,12 +8,14 @@ Simple game for 2 or even 3 players (offline) written in C using Allegro 4.2 lib
 Installation
 ------------
 
-### Run
+### Linux
+To build on linux first install liballegro4.2-dev. Then run:
 
     make
     ./Bomberman
 
-To build on linux first install liballegro4.2-dev. Repo contains required libaries for Windows.
+### Windows
+You can build project on your own or just run Bomberman.exe from windows folder. Folder contains necessary libaries.
 
 TODO:
 -------
